@@ -1,6 +1,7 @@
 #ifndef MYGAME_H
 #define MYGAME_H
 #include "Game.hpp"
+#include "Pelota.hpp"
 
 class MyGame : public Game {
 public:
